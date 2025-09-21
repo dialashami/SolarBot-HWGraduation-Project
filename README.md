@@ -70,7 +70,7 @@ It is designed to clean solar panels automatically, maintaining their efficiency
 ---
 
 
----
+
 
 ## 📄 License  
 This project is part of an academic graduation project. All rights reserved to the authors.  
