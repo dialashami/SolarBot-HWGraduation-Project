@@ -69,8 +69,6 @@ It is designed to clean solar panels automatically, maintaining their efficiency
 
 ---
 
-## 🖼️ Project Images  
-![SolarBot Design](./images/robot1.jpg)
 
 ---
 
