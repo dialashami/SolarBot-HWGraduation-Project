@@ -70,7 +70,7 @@ It is designed to clean solar panels automatically, maintaining their efficiency
 ---
 
 ## 🖼️ Project Images  
-![SolarBot Design](C:/Users/asus/Documents/robot1/robot1.jpg)  
+![SolarBot Design](./images/robot1.jpg)
 
 ---
 
